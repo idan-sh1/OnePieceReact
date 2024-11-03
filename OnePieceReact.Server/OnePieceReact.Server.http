@@ -1,0 +1,7 @@
+@OnePieceReact.Server_HostAddress = http://localhost:5240
+
+GET {{OnePieceReact.Server_HostAddress}}/pirates/
+
+Accept: application/json
+
+###
